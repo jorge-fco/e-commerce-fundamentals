@@ -45,3 +45,10 @@ Por ejemplo: Color, tamaño, peso, etc.
 ## Notificaciones.
 
 ## Envíos.
+* Persona encargada para la gestión de envíos y lógistica de productos.
+* Seguimientos de pedidos por medio de un servicio de envíos.
+* Tener la redacción de politicas de envíos y cancelaciones.
+* Tarifas de envío.
+* Envíos nacionales.
+* Envíos internacionales.
+* Dimenciones y peso de los productos que se realizaran envíos.
