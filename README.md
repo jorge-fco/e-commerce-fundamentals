@@ -1,6 +1,9 @@
 # E-Commerce Fundamentals.
 E-Commerce Fundamentals.
 
+* https://www.shopify.com/enterprise/the-future-of-ecommerce
+* https://www.shopify.com/plus/guides/global-ecommerce
+
 ## Flujo.
 - Reconocimiento de necesidad
 - Búsqueda y análisis.
