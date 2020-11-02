@@ -52,3 +52,7 @@ Por ejemplo: Color, tamaño, peso, etc.
 * Envíos nacionales.
 * Envíos internacionales.
 * Dimenciones y peso de los productos que se realizaran envíos.
+
+**Extras**
+* ZIP Code calculator
+* https://www.mienvio.mx/
